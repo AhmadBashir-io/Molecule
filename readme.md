@@ -1,4 +1,6 @@
+# Molecule
 
+Molecule is an Innovative Software that seamlessly connects Qualified Developers, Business Owners and Aspiring Developers to plan, manage, and build customized innovative projects with real-time development insights.
 
 ##Installation
 ----------------------------------------------
